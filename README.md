@@ -2,8 +2,7 @@
 - 😄 I'm from germany
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning github and making games
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me asejulesdev@gmail.com
+- 📫 How to reach me: asejulesdev@gmail.com
 
 <!---
 Asejules/Asejules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
